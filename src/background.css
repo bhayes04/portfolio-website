@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Kabisat';
-    src: url('/fonts/Kabisat Demo-ItalicTall.ttf');
+    src: url('../fonts/Kabisat Demo-ItalicTall.ttf');
 }
 
 @font-face {
     font-family: 'TT Autonomous';
-    src: url('/fonts/TT-Autonomous-Trial-2-000 2/TT Autonomous Trial Regular.ttf') format('truetype');
+    src: url('../fonts/TT-Autonomous-Trial-2-000 2/TT Autonomous Trial Regular.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
@@ -24,7 +24,7 @@ header {
 body {
     margin: auto;
     font-family: 'TT Autonomous', Arial, sans-serif;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('/images/shibyuacollisioncover2.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../images/shibyuacollisioncover2.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

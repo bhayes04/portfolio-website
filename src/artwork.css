@@ -1,18 +1,18 @@
 @font-face {
     font-family: 'Kabisat';
-    src: url('/fonts/Kabisat Demo-ItalicTall.ttf');
+    src: url('../fonts/Kabisat Demo-ItalicTall.ttf');
 }
 
 @font-face {
     font-family: 'TT Autonomous';
-    src: url('/fonts/TT-Autonomous-Trial-2-000 2/TT Autonomous Trial Regular.ttf') format('truetype');
+    src: url('../fonts/TT-Autonomous-Trial-2-000 2/TT Autonomous Trial Regular.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Pocket Ball';
-    src: url('/fonts/pocket-ball-cufonfonts/PocketBall-PwG2.otf') format('opentype');
+    src: url('../fonts/pocket-ball-cufonfonts/PocketBall-PwG2.otf') format('opentype');
     font-style: normal;
 }
 
